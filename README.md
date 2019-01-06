@@ -8,6 +8,8 @@ javascript, js, functional programming
 
 ### When?
 
+### what?
+
 
 #### References
 - Korean
